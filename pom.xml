@@ -9,7 +9,7 @@
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
 		<java-version>1.8</java-version> <!-- 변경한 것 1.6->1.8 -->
-		<org.springframework-version>5.0.7.RELEASE</org.springframework-version> <!-- 변경한 것 -->
+		<org.springframework-version>5.2.7.RELEASE</org.springframework-version> <!-- 변경한 것 -->
 		<org.aspectj-version>1.6.10</org.aspectj-version>
 		<org.slf4j-version>1.6.6</org.slf4j-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
